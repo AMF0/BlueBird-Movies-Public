@@ -11,27 +11,6 @@
 
 <hr/>
 
-# 🍿 Technology
-
-BlueBird-Movies is built using the following technologies:
-
-- ReactJS
-- TMDB API
-- Firebase Google Authentication
-- Framer Motion
-
-<hr/>
-
-# 🍿 How to Run the Website on Your System
-
-## Step 1: Download and Extract the Code
-
-Firstly, download the entire website code and extract the ZIP file to a folder on your local system.
-
-## Step 2: Obtain the TMDB Movies API Key and Firebase Configuration
-
-Before starting the website, you will need to obtain the TMDB Movies API key and Firebase configuration. Follow these steps to obtain them and add them to your `.env` file.
-
 ### ▶️ Get TMDB API Key 
 
 - Go to https://www.themoviedb.org/ and log in.
